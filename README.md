@@ -236,15 +236,5 @@ python scripts/run_experiments.py --experiment heyting --epochs 100
 
 ## License
 
-This project uses a **dual license**:
-
-- **AGPL-3.0** for open-source use
-- **Commercial license** available for proprietary applications
-
-See [LICENSE.md](LICENSE.md) for details.
-
----
-
-<p align="center">
-  <i>Where algebraic structure meets neural architecture — verified by proof, validated by experiment.</i>
-</p>
+This project is provided under the Apoth3osis License Stack v1.
+See `LICENSE.md` and the files under `licenses/`.
